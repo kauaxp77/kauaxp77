@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wendson--kaua-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/wendson-kaua/)
 [![Email](https://img.shields.io/badge/Email-wendesonkaua11%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:wendesonkaua11@gmail.com)
 ![Localização](https://img.shields.io/badge/BRASILIA-gray?style=flat-square)
-![Status](https://img.shields.io/badge/Aberto%20a%20oportunidades-brightgreen?style=flat-square)
 
 ---
 
