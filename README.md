@@ -77,7 +77,6 @@ e sua aplicação nos modelos IaaS, PaaS e SaaS.
 
 - 🎓 **Análise e Desenvolvimento de Sistemas** – UniProjeção *(previsão: 07/2027 · CRA: 7,44)*
 - 🖥️ **Técnico em Informática** – Escola Técnica de Ceilândia
-- 📜 **Desenvolvimento Web (400h)** – Escola Técnica de Ceilândia
 
 ---
 
