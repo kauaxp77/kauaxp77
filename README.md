@@ -69,7 +69,6 @@ Desenvolvimento de scripts e documentação técnica.
 
 * 🎓 **Análise e Desenvolvimento de Sistemas** – UniProjeção *(Previsão: 07/2027 · CRA: 7.44)*
 * 🖥️ **Técnico em Informática** – Escola Técnica de Ceilândia
-* 📜 **Desenvolvimento Web (400h)** – Escola Técnica de Ceilândia
 
 ---
 
