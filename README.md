@@ -30,6 +30,7 @@ Busco minha primeira oportunidade oficial em desenvolvimento de software, com fo
 
 ### Dados & Banco de Dados
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
@@ -42,6 +43,11 @@ Busco minha primeira oportunidade oficial em desenvolvimento de software, com fo
 ---
 
 ## 🚀 Projetos em Destaque
+
+### 📋 Sistema Administrativo de Contratos
+Desenvolvimento back-end para um sistema de gestão corporativa, focado em estabilidade e segurança.
+* Modernização da arquitetura com Server-Side Rendering (SSR) utilizando Thymeleaf, implementação de autenticação segura com Spring Security e versionamento de banco de dados relacional (Flyway).
+> **Stack:** `Java` `Spring Boot` `Spring Security` `PostgreSQL` `Thymeleaf`
 
 ### 🏥 Sistema de Gestão Clínica
 Plataforma web para agendamento de consultas médicas com controle de acesso por perfis (RBAC). 
