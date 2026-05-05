@@ -80,8 +80,10 @@ Desenvolvimento de scripts e documentação técnica.
 
 ## 📊 GitHub Stats
 
-![Wendson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauaxp77&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauaxp77&layout=compact&hide_border=true)
+<div align="center">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=kauaxp77&theme=dark&hide_border=true" alt="Estatísticas do Wendson" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaxp77&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
+</div>
 
 ---
 
