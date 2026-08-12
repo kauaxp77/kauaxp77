@@ -6,7 +6,7 @@
 
 ## 🙋 Sobre mim
 
-Sou estudante do 3° semestre de **Análise e Desenvolvimento de Sistemas** na UniProjeção, com experiência prática atuando como estagiário de TI no **Tribunal de Justiça do Distrito Federal e Territórios (TJDFT)**. No meu dia a dia, trabalho com análise, manipulação e estruturação de dados institucionais de grande volume.
+Sou estudante do 4° semestre de **Análise e Desenvolvimento de Sistemas** na UniProjeção, com experiência prática atuando como estagiário de TI no **Tribunal de Justiça do Distrito Federal e Territórios (TJDFT)**. No meu dia a dia, trabalho com análise, manipulação e estruturação de dados institucionais de grande volume.
 
 Busco minha primeira oportunidade oficial em desenvolvimento de software, com foco voltado para **back-end, dados e infraestrutura**, sempre com muita disposição para aprender novas arquiteturas e ferramentas.
 
@@ -73,7 +73,7 @@ Desenvolvimento de scripts e documentação técnica.
 
 ## 📚 Formação
 
-* 🎓 **Análise e Desenvolvimento de Sistemas** – UniProjeção *(Previsão: 07/2027 · CRA: 7.44)*
+* 🎓 **Análise e Desenvolvimento de Sistemas** – UniProjeção *(Previsão: 07/2027 · CRA: 7.88)*
 * 🖥️ **Técnico em Informática** – Escola Técnica de Ceilândia
 
 ---
