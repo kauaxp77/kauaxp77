@@ -191,8 +191,17 @@ para WebP e geração de termos de consentimento em PDF.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kauaxp77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaxp77&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+[![Repositórios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkauaxp77&query=%24.public_repos&label=reposit%C3%B3rios&style=for-the-badge&color=1b4f8a&logo=github&logoColor=white)](https://github.com/kauaxp77?tab=repositories)
+![Seguidores](https://img.shields.io/github/followers/kauaxp77?style=for-the-badge&color=3aa0ff&logo=github&logoColor=white&label=seguidores)
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauaxp77&theme=tokyonight" width="88%" alt="Resumo do perfil" />
+
+<br><br>
+
+<img height="195" src="https://streak-stats.demolab.com/?user=kauaxp77&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="Sequência de contribuições" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kauaxp77&theme=tokyonight" alt="Linguagens por repositório" />
 
 </div>
 
