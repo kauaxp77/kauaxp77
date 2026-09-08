@@ -74,13 +74,12 @@ dependem de alguém lembrar de executá-los.
 
 ### ⚖️ Extrator auditável
 
-Extração de dados de sistemas web legados **com validação por backtest**. Derivado de uma
-automação em produção no TJDFT.
+Extração de dados de sistemas web legados **com validação por backtest**.
 
 Mede acurácia campo a campo contra registros preenchidos por humanos, e distingue **erro de
 regra** de **erro de leitura** pela direção das divergências.
 
-`97,6%` de acurácia · `84` registros medidos · validação cega em `50` inéditos
+**97,6%** de acurácia · **84** registros medidos · validação cega em **50** inéditos
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
@@ -93,13 +92,13 @@ regra** de **erro de leitura** pela direção das divergências.
 
 ### 🏦 Beto Banco
 
-Plataforma completa de cursos para concursos bancários — área de membros no padrão das grandes
-plataformas do mercado.
+Plataforma completa de cursos para concursos bancários, no padrão das grandes plataformas do
+mercado.
 
 Da landing page ao certificado: compra por webhook, liberação automática de acesso, aulas com
-vídeo e questões, progresso e validação pública de certificado.
+vídeo e questões, progresso e validação pública.
 
-`3` ambientes integrados · testes no back e no front
+**3** ambientes sobre a mesma API · testes no back e no front
 
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -121,6 +120,8 @@ Plataforma de Revenue Operations com integração de IA (AI Blueprint Engine).
 Painel executivo com KPIs avançados — ACV, velocidade de vendas, alertas de SLA —, exportação
 de dados e permissões administrativas.
 
+**Serverless** · build otimizado para produção
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![IA](https://img.shields.io/badge/Integração_de_IA-8A2BE2?style=flat-square)
@@ -133,10 +134,10 @@ de dados e permissões administrativas.
 
 ### 🎨 Ink Studio
 
-Gestão e agendamento para estúdios de tatuagem, com arquitetura escalável e deploy em cloud.
+Gestão e agendamento para estúdios de tatuagem, com deploy em cloud.
 
-Mídia no Cloudinary para resolver a limitação de sistema de arquivos somente-leitura, conversão
-automática para WebP e geração de termos de consentimento em PDF.
+Mídia no Cloudinary para contornar o sistema de arquivos somente-leitura, conversão automática
+para WebP e geração de termos de consentimento em PDF.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
