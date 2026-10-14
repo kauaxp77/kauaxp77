@@ -135,7 +135,7 @@ de dados e permissões administrativas.
 
 ### 🎨 Ink Studio
 
-Gestão e agendamento para estúdios de tatuagem, com deploy em cloud.
+Portfólio, pedidos, agenda e gestão para estúdios de tatuagem. MVP para um tatuador, desenhado para virar SaaS.
 
 Mídia no Cloudinary para contornar o sistema de arquivos somente-leitura, conversão automática
 para WebP e geração de termos de consentimento em PDF.
@@ -146,7 +146,6 @@ para WebP e geração de termos de consentimento em PDF.
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 [![Código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauaxp77/studio-ink)
-[![Demo](https://img.shields.io/badge/Ver_online-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://studio-ink-w77xp.vercel.app)
 
 </td>
 </tr>
