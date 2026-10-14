@@ -164,6 +164,8 @@ evento entra em vermelho, marcado para conferir, em vez de virar um chute.
 
 **3** entradas (WhatsApp, Gmail, formulário) · **47** testes · n8n auto-hospedado no plano grátis
 
+Tem uma versão genérica, com guia de instalação do zero e roteiro de entrega, para replicar em outros clientes.
+
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![Google Agenda](https://img.shields.io/badge/Google_Agenda-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
@@ -172,6 +174,7 @@ evento entra em vermelho, marcado para conferir, em vez de virar um chute.
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 [![Código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauaxp77/naty-agenda)
+[![Versão para clientes](https://img.shields.io/badge/Versão_para_clientes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauaxp77/Automacao_n8n)
 
 </td>
 </tr>
