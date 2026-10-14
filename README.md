@@ -162,7 +162,7 @@ A IA extrai serviço, órgão, data e hora; o código **confere o que ela devolv
 bate com a data, data no passado, "amanhã" numa mensagem encaminhada (que não diz quando foi escrita): o
 evento entra em vermelho, marcado para conferir, em vez de virar um chute.
 
-**3** entradas (WhatsApp, Gmail, formulário) · **44** testes · n8n auto-hospedado no plano grátis
+**3** entradas (WhatsApp, Gmail, formulário) · **47** testes · n8n auto-hospedado no plano grátis
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
