@@ -15,7 +15,7 @@
 ## 🙋 Sobre mim
 
 Estudante do **4º semestre de Análise e Desenvolvimento de Sistemas** na UniProjeção. No
-**TJDFT**, trabalho com análise e estruturação de dados institucionais de grande volume — o que
+**TJDFT**, trabalho com análise e estruturação de dados institucionais de grande volume, o que
 me levou a construir automações que não só extraem dados, mas **provam que extraíram certo**.
 
 Fora do estágio, construo sistemas completos: plataformas de ensino com área de membros, CRMs,
@@ -118,7 +118,7 @@ vídeo e questões, progresso e validação pública.
 
 Plataforma de Revenue Operations com integração de IA (AI Blueprint Engine).
 
-Painel executivo com KPIs avançados — ACV, velocidade de vendas, alertas de SLA —, exportação
+Painel executivo com KPIs avançados (ACV, velocidade de vendas, alertas de SLA), exportação
 de dados e permissões administrativas.
 
 **Serverless** · build otimizado para produção
@@ -188,7 +188,7 @@ Tem uma versão genérica, com guia de instalação do zero e roteiro de entrega
 
 | Projeto | O que é | Stack | |
 |:---|:---|:---|:---|
-| **[Carlos Rosa — CMS](https://github.com/kauaxp77/Carlos-Rosa)** | Portfólio fotográfico com CMS, auditoria e booking | `Java` `Spring Boot` `MySQL` | |
+| **[Carlos Rosa: CMS](https://github.com/kauaxp77/Carlos-Rosa)** | Portfólio fotográfico com CMS, auditoria e booking | `Java` `Spring Boot` `MySQL` | |
 | **[ASSED Goiás](https://github.com/kauaxp77/ASSEDGOIAS)** | Site institucional | `React` `TypeScript` `Vite` | [🔗](https://assedgoias.vercel.app) |
 | **[Requinte Coffee](https://github.com/kauaxp77/Requinte_coffee)** | Site comercial | `React` `TypeScript` | [🔗](https://requinte-coffee.vercel.app) |
 | **[Simulados SEDES-DF](https://github.com/kauaxp77/simulados-sedes-df)** | Plataforma de simulados | `JavaScript` `CSS` | [🔗](https://simulados-sedes-df.vercel.app) |
