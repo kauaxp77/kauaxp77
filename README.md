@@ -107,7 +107,7 @@ vídeo e questões, progresso e validação pública.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_17-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 [![Código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauaxp77/Beto_Banco)
-[![Demo](https://img.shields.io/badge/Ver_online-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-w77xp.vercel.app)
+[![Demo](https://img.shields.io/badge/Ver_no_ar-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.aprovacaopassoapasso.com.br)
 
 </td>
 </tr>
@@ -146,7 +146,7 @@ para WebP e geração de termos de consentimento em PDF.
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 [![Código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauaxp77/studio-ink)
-[![Demo](https://img.shields.io/badge/Ver_online-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://studio-ink-two.vercel.app)
+[![Demo](https://img.shields.io/badge/Ver_online-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://studio-ink-w77xp.vercel.app)
 
 </td>
 </tr>
@@ -193,7 +193,7 @@ Tem uma versão genérica, com guia de instalação do zero e roteiro de entrega
 | **[Requinte Coffee](https://github.com/kauaxp77/Requinte_coffee)** | Site comercial | `React` `TypeScript` | [🔗](https://requinte-coffee.vercel.app) |
 | **[Simulados SEDES-DF](https://github.com/kauaxp77/simulados-sedes-df)** | Plataforma de simulados | `JavaScript` `CSS` | [🔗](https://simulados-sedes-df.vercel.app) |
 | **[Aprova passo a passo](https://github.com/kauaxp77/Aprova-o-passo-a-passo)** | Material de estudo interativo | `JavaScript` `CSS` | [🔗](https://aprova-o-passo-a-passo.vercel.app) |
-| **[Calculadora de orçamentos](https://github.com/kauaxp77/Calculadora-or-amentos)** | Ferramenta de precificação | `HTML` `JavaScript` | [🔗](https://calculadora-or-amentos-eight.vercel.app) |
+| **[Calculadora de orçamentos](https://github.com/kauaxp77/calculadora-orcamentos)** | Ferramenta de precificação | `HTML` `JavaScript` | [🔗](https://calculadora-or-amentos-bay.vercel.app) |
 | **[Sistema de Patrimônio](https://github.com/kauaxp77/Sistema_Patrimonio)** | Controle de bens patrimoniais | `PHP` `MySQL` | |
 | **[HireNow Job](https://github.com/kauaxp77/Hirenow-Job)** | Portal de vagas | `PHP` `MySQL` | |
 | **[Agendamento de Salas](https://github.com/kauaxp77/Agendamento-de-Salas)** | Reserva de espaços | `PHP` `MySQL` | |
