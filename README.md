@@ -53,6 +53,7 @@ dependem de alguém lembrar de executá-los.
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 **Infraestrutura & Deploy**
 
@@ -146,6 +147,31 @@ para WebP e geração de termos de consentimento em PDF.
 
 [![Código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauaxp77/studio-ink)
 [![Demo](https://img.shields.io/badge/Ver_online-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://studio-ink-two.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📅 Agenda por WhatsApp com IA
+
+Automação para uma assessoria de licitações: o pedido de serviço **encaminhado ao WhatsApp do robô** vira
+evento no Google Agenda, com alarmes no celular e lembretes por e-mail para a equipe.
+
+A IA extrai serviço, órgão, data e hora; o código **confere o que ela devolveu**. Dia da semana que não
+bate com a data, data no passado, "amanhã" numa mensagem encaminhada (que não diz quando foi escrita): o
+evento entra em vermelho, marcado para conferir, em vez de virar um chute.
+
+**3** entradas (WhatsApp, Gmail, formulário) · **44** testes · n8n auto-hospedado no plano grátis
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Google Agenda](https://img.shields.io/badge/Google_Agenda-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
+![IA](https://img.shields.io/badge/IA_%28Groq%29-8A2BE2?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+[![Código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauaxp77/naty-agenda)
 
 </td>
 </tr>
