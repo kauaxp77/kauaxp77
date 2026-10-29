@@ -154,6 +154,8 @@ para WebP e geração de termos de consentimento em PDF.
 
 ### 📅 Agenda por WhatsApp com IA
 
+<img src="assets/agenda-whatsapp/banner.jpg" width="100%" alt="Agenda por WhatsApp com IA: do WhatsApp para a agenda, sem digitar nada" />
+
 Automação para uma assessoria de licitações: o pedido de serviço **encaminhado ao WhatsApp do robô** vira
 evento no Google Agenda, com alarmes no celular e lembretes por e-mail para a equipe.
 
@@ -165,6 +167,13 @@ evento entra em vermelho, marcado para conferir, em vez de virar um chute.
 
 Tem uma versão genérica, com guia de instalação do zero e roteiro de entrega, para replicar em outros clientes.
 
+<p align="center">
+<a href="https://github.com/kauaxp77/Automacao_n8n/blob/main/docs/divulgacao/linkedin/carrossel-agenda-whatsapp.pdf"><img src="assets/agenda-whatsapp/slide-03.jpg" width="24%" alt="Como funciona, em quatro passos" /></a>
+<a href="https://github.com/kauaxp77/Automacao_n8n/blob/main/docs/divulgacao/linkedin/carrossel-agenda-whatsapp.pdf"><img src="assets/agenda-whatsapp/slide-04.jpg" width="24%" alt="A IA lê, o código confere a data" /></a>
+<a href="https://github.com/kauaxp77/Automacao_n8n/blob/main/docs/divulgacao/linkedin/carrossel-agenda-whatsapp.pdf"><img src="assets/agenda-whatsapp/slide-06.jpg" width="24%" alt="Lembretes no celular e por e-mail" /></a>
+<a href="https://github.com/kauaxp77/Automacao_n8n/blob/main/docs/divulgacao/linkedin/carrossel-agenda-whatsapp.pdf"><img src="assets/agenda-whatsapp/slide-07.jpg" width="24%" alt="Quando algo falha, alguém fica sabendo" /></a>
+</p>
+
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![Google Agenda](https://img.shields.io/badge/Google_Agenda-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
@@ -174,6 +183,7 @@ Tem uma versão genérica, com guia de instalação do zero e roteiro de entrega
 
 [![Código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauaxp77/naty-agenda)
 [![Versão para clientes](https://img.shields.io/badge/Versão_para_clientes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauaxp77/Automacao_n8n)
+[![Carrossel](https://img.shields.io/badge/Carrossel_%28PDF%29-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/kauaxp77/Automacao_n8n/blob/main/docs/divulgacao/linkedin/carrossel-agenda-whatsapp.pdf)
 
 </td>
 </tr>
