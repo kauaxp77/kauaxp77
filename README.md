@@ -1,250 +1,137 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4f8a,100:3aa0ff&height=200&section=header&text=Wendson%20Kau%C3%A3&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Desenvolvedor%20Full-Stack%20%C2%B7%20Est%C3%A1gi%C3%A1rio%20de%20TI%20no%20TJDFT&descAlignY=56&descSize=17" width="100%" />
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendson-kaua/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendesonkaua11@gmail.com)
-[![GitHub](https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauaxp77?tab=repositories)
-
-</div>
-
-<br>
-
-## 🙋 Sobre mim
-
-Estudante do **4º semestre de Análise e Desenvolvimento de Sistemas** na UniProjeção. No
-**TJDFT**, trabalho com análise e estruturação de dados institucionais de grande volume, o que
-me levou a construir automações que não só extraem dados, mas **provam que extraíram certo**.
-
-Fora do estágio, construo sistemas completos: plataformas de ensino com área de membros, CRMs,
-sistemas de gestão. Gosto de arquitetura bem resolvida, código legível e processos que não
-dependem de alguém lembrar de executá-los.
-
-<br>
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-**Linguagens**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Back-end & Front-end**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Dados & Automação**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-**Infraestrutura & Deploy**
-
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br>
-
-## 🚀 Projetos em destaque
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚖️ Extrator auditável
-
-Extração de dados de sistemas web legados **com validação por backtest**.
-
-Mede acurácia campo a campo contra registros preenchidos por humanos, e distingue **erro de
-regra** de **erro de leitura** pela direção das divergências.
-
-**97,6%** de acurácia · **84** registros medidos · validação cega em **50** inéditos
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![MIT](https://img.shields.io/badge/MIT-A31F34?style=flat-square)
-
-[![Código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauaxp77/AutomatizacaoDeDados)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏦 Beto Banco
-
-Plataforma completa de cursos para concursos bancários, no padrão das grandes plataformas do
-mercado.
-
-Da landing page ao certificado: compra por webhook, liberação automática de acesso, aulas com
-vídeo e questões, progresso e validação pública.
-
-**3** ambientes sobre a mesma API · testes no back e no front
-
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React_19-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_17-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-[![Código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauaxp77/Beto_Banco)
-[![Demo](https://img.shields.io/badge/Ver_no_ar-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.aprovacaopassoapasso.com.br)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 77xp RevOps & CRM
-
-Plataforma de Revenue Operations com integração de IA (AI Blueprint Engine).
-
-Painel executivo com KPIs avançados (ACV, velocidade de vendas, alertas de SLA), exportação
-de dados e permissões administrativas.
-
-**Serverless** · build otimizado para produção
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![IA](https://img.shields.io/badge/Integração_de_IA-8A2BE2?style=flat-square)
-
-[![Código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauaxp77/77.tech)
-[![Demo](https://img.shields.io/badge/Ver_online-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://77-tech.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Ink Studio
-
-Portfólio, pedidos, agenda e gestão para estúdios de tatuagem. MVP para um tatuador, desenhado para virar SaaS.
-
-Mídia no Cloudinary para contornar o sistema de arquivos somente-leitura, conversão automática
-para WebP e geração de termos de consentimento em PDF.
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-
-[![Código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauaxp77/studio-ink)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 📅 Agenda por WhatsApp com IA
-
-<img src="assets/agenda-whatsapp/banner.jpg" width="100%" alt="Agenda por WhatsApp com IA: do WhatsApp para a agenda, sem digitar nada" />
-
-Automação para uma assessoria de licitações: o pedido de serviço **encaminhado ao WhatsApp do robô** vira
-evento no Google Agenda, com alarmes no celular e lembretes por e-mail para a equipe.
-
-A IA extrai serviço, órgão, data e hora; o código **confere o que ela devolveu**. Dia da semana que não
-bate com a data, data no passado, "amanhã" numa mensagem encaminhada (que não diz quando foi escrita): o
-evento entra em vermelho, marcado para conferir, em vez de virar um chute.
-
-**3** entradas (WhatsApp, Gmail, formulário) · **47** testes · n8n auto-hospedado no plano grátis
-
-Tem uma versão genérica, com guia de instalação do zero e roteiro de entrega, para replicar em outros clientes.
+<h1 align="center">Wendson Kauã</h1>
 
 <p align="center">
-<a href="https://github.com/kauaxp77/Automacao_n8n/blob/main/docs/divulgacao/linkedin/carrossel-agenda-whatsapp.pdf"><img src="assets/agenda-whatsapp/slide-03.jpg" width="24%" alt="Como funciona, em quatro passos" /></a>
-<a href="https://github.com/kauaxp77/Automacao_n8n/blob/main/docs/divulgacao/linkedin/carrossel-agenda-whatsapp.pdf"><img src="assets/agenda-whatsapp/slide-04.jpg" width="24%" alt="A IA lê, o código confere a data" /></a>
-<a href="https://github.com/kauaxp77/Automacao_n8n/blob/main/docs/divulgacao/linkedin/carrossel-agenda-whatsapp.pdf"><img src="assets/agenda-whatsapp/slide-06.jpg" width="24%" alt="Lembretes no celular e por e-mail" /></a>
-<a href="https://github.com/kauaxp77/Automacao_n8n/blob/main/docs/divulgacao/linkedin/carrossel-agenda-whatsapp.pdf"><img src="assets/agenda-whatsapp/slide-07.jpg" width="24%" alt="Quando algo falha, alguém fica sabendo" /></a>
+  <b>Desenvolvedor backend</b> · Java e Spring Boot, Python e Django<br>
+  Estagiário de TI na área de Dados do <b>TJDFT</b> · Fundador da <b>77xp</b> · Brasília, DF
 </p>
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![Google Agenda](https://img.shields.io/badge/Google_Agenda-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
-![IA](https://img.shields.io/badge/IA_%28Groq%29-8A2BE2?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+<p align="center">
+  <a href="https://www.linkedin.com/in/wendson-kaua/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:wendesonkaua11@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://inkstudiobr.com.br"><img src="https://img.shields.io/badge/Ink_Studio_no_ar-1a1612?style=for-the-badge&logo=googlechrome&logoColor=e7a72c" alt="Ink Studio no ar"></a>
+</p>
 
-[![Código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauaxp77/naty-agenda)
-[![Versão para clientes](https://img.shields.io/badge/Versão_para_clientes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauaxp77/Automacao_n8n)
-[![Carrossel](https://img.shields.io/badge/Carrossel_%28PDF%29-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/kauaxp77/Automacao_n8n/blob/main/docs/divulgacao/linkedin/carrossel-agenda-whatsapp.pdf)
+---
 
-</td>
-</tr>
-</table>
+## Sobre mim
 
-<br>
+Trabalho com backend em **Java e Spring Boot** e em **Python e Django**. No TJDFT, lido com dados
+institucionais em **Oracle Database** num ambiente de produção, e automatizo o que antes era
+conferência manual.
 
-## 📂 Outros projetos
+Vim da infraestrutura (redes, manutenção e segurança no técnico), e por isso penso em falha,
+migração e operação antes de pensar em funcionalidade. O que mais gosto de garantir: a regra
+importante fica no banco, e não só na tela, e o erro aparece no teste antes de chegar ao usuário.
 
-<div align="center">
+Hoje mantenho plataformas próprias no ar, do levantamento de requisitos ao deploy, e procuro
+minha primeira posição efetiva como desenvolvedor **backend, de dados ou de infraestrutura**.
 
-| Projeto | O que é | Stack | |
-|:---|:---|:---|:---|
-| **[Carlos Rosa: CMS](https://github.com/kauaxp77/Carlos-Rosa)** | Portfólio fotográfico com CMS, auditoria e booking | `Java` `Spring Boot` `MySQL` | |
-| **[ASSED Goiás](https://github.com/kauaxp77/ASSEDGOIAS)** | Site institucional | `React` `TypeScript` `Vite` | [🔗](https://assedgoias.vercel.app) |
-| **[Requinte Coffee](https://github.com/kauaxp77/Requinte_coffee)** | Site comercial | `React` `TypeScript` | [🔗](https://requinte-coffee.vercel.app) |
-| **[Simulados SEDES-DF](https://github.com/kauaxp77/simulados-sedes-df)** | Plataforma de simulados | `JavaScript` `CSS` | [🔗](https://simulados-sedes-df.vercel.app) |
-| **[Aprova passo a passo](https://github.com/kauaxp77/Aprova-o-passo-a-passo)** | Material de estudo interativo | `JavaScript` `CSS` | [🔗](https://aprova-o-passo-a-passo.vercel.app) |
-| **[Calculadora de orçamentos](https://github.com/kauaxp77/calculadora-orcamentos)** | Ferramenta de precificação | `HTML` `JavaScript` | [🔗](https://calculadora-or-amentos-bay.vercel.app) |
-| **[Sistema de Patrimônio](https://github.com/kauaxp77/Sistema_Patrimonio)** | Controle de bens patrimoniais | `PHP` `MySQL` | |
-| **[HireNow Job](https://github.com/kauaxp77/Hirenow-Job)** | Portal de vagas | `PHP` `MySQL` | |
-| **[Agendamento de Salas](https://github.com/kauaxp77/Agendamento-de-Salas)** | Reserva de espaços | `PHP` `MySQL` | |
-| **[API REST](https://github.com/kauaxp77/Api_Rest)** | API com Spring Boot | `Java` `Spring Boot` | |
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,postgres,docker,githubactions,linux,react,ts" alt="Java, Spring, Python, Django, PostgreSQL, Docker, GitHub Actions, Linux, React e TypeScript" />
+</p>
 
-</div>
+Também no dia a dia: **Oracle Database e PL/SQL**, Flyway, JUnit, Testcontainers, ArchUnit, pytest,
+n8n e integração com LLM. Deploy em Render, Neon, Supabase e Vercel, com os erros no Sentry.
 
-<br>
+---
 
-## 🎓 Formação
+## Projetos em destaque
 
-<div align="center">
+### Ink Studio
 
-| | Curso | Instituição | |
-|:---:|:---|:---|:---|
-| 🎓 | **Análise e Desenvolvimento de Sistemas** | UniProjeção | previsão **07/2027** · CRA **7.88** |
-| 🖥️ | **Técnico em Informática** | Escola Técnica de Ceilândia | concluído |
+<a href="https://inkstudiobr.com.br"><img src="assets/projetos/ink.jpg" width="100%" alt="Ink Studio: a agenda da semana em grade e o controle de estoque, no modo escuro"></a>
 
-</div>
+SaaS para estúdios de tatuagem, **em produção e com assinatura paga**. O estúdio cuida do pedido
+ao pós-tatuagem: orçamento com o mapa do corpo, agenda, sinal por Pix, ficha e termo digitais,
+registro sanitário, caixa e estoque.
 
-<br>
+- **Multi-tenant:** cada estúdio no próprio endereço, todo dado preso ao estúdio, e um teste que tenta abrir cada página com os registros de outro estúdio.
+- **Regras no banco:** o PostgreSQL impede dois horários sobrepostos na agenda, e o estoque trava a linha para a quantidade nunca ficar negativa.
+- **Pagamento:** Pix pelo Mercado Pago, com o aviso conferido por assinatura HMAC e processado sem duplicar.
+- **Números:** 21 módulos, 121 migrações, mais de 5 mil testes e 14 decisões de arquitetura registradas.
 
-## 📊 GitHub
+`Python 3.13` `Django 6` `PostgreSQL` `Mercado Pago` `Render` `GitHub Actions` `Sentry`
 
-<div align="center">
-
-[![Repositórios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkauaxp77&query=%24.public_repos&label=reposit%C3%B3rios&style=for-the-badge&color=1b4f8a&logo=github&logoColor=white)](https://github.com/kauaxp77?tab=repositories)
-![Seguidores](https://img.shields.io/github/followers/kauaxp77?style=for-the-badge&color=3aa0ff&logo=github&logoColor=white&label=seguidores)
+[**Ver no ar →**](https://inkstudiobr.com.br) &nbsp;·&nbsp; código privado (produto comercial)
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauaxp77&theme=tokyonight" width="88%" alt="Resumo do perfil" />
+### Cátedra
 
-<br><br>
+<a href="https://www.aprovacaopassoapasso.com.br"><img src="assets/projetos/catedra.jpg" width="100%" alt="Cátedra: a página de venda da Aprovação Passo a Passo, que roda sobre a plataforma"></a>
 
-<img height="195" src="https://streak-stats.demolab.com/?user=kauaxp77&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="Sequência de contribuições" />
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kauaxp77&theme=tokyonight" alt="Linguagens por repositório" />
+Plataforma de cursos online, **no ar como Aprovação Passo a Passo**, para concursos bancários. Da
+vitrine ao certificado: venda, área do aluno, correção de redação e painel do professor, sobre a
+mesma API.
 
-</div>
+- **Acesso só com pagamento confirmado:** o webhook não é a fonte de verdade. A plataforma pergunta ao provedor se o pedido foi pago, confere o valor e só então libera. O estorno revoga o acesso sozinho.
+- **Arquitetura modular:** 18 módulos com fronteiras verificadas pelo ArchUnit a cada build, e 37 migrações versionadas no Flyway.
+- **Segurança e LGPD:** JWT com refresh rotativo que derruba a sessão quando o token é reusado, senhas em Argon2id, e-mail no padrão outbox e aceite de termos comprovável.
+- **Testes:** mais de 400, entre unitários, integração com Testcontainers e testes de arquitetura.
 
-<div align="center">
+`Java 21` `Spring Boot 3.5` `PostgreSQL 17` `Flyway` `React 19` `TypeScript`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3aa0ff,100:1b4f8a&height=120&section=footer" width="100%" />
+[**Ver no ar →**](https://www.aprovacaopassoapasso.com.br) &nbsp;·&nbsp; código privado (projeto de cliente)
 
-</div>
+<br>
+
+### 77xp OS
+
+<a href="https://77-tech.vercel.app"><img src="assets/projetos/os.jpg" width="100%" alt="77xp OS: o funil de leads em colunas, com os parados há mais de 5 dias marcados"></a>
+
+O sistema que opera a 77xp: leads, reuniões, orçamento, propostas e cobrança. O cliente abre a
+proposta por um link público, sem conta, e o site da 77xp manda cada lead direto para o funil.
+
+- **Isolamento pelo banco:** toda tabela tem Row Level Security, e a aplicação conecta com um papel que não consegue contornar. Uma consulta que esqueça o filtro não vaza dado: não devolve nada.
+- **Auditoria só de inserção:** `UPDATE` e `DELETE` revogados no próprio banco.
+- **Testes:** mais de 800, entre a API (rodando contra PostgreSQL de verdade), o painel e o site.
+
+`Java 21` `Spring Boot` `PostgreSQL 17` `React 19` `Next.js` `Tailwind`
+
+[**Ver o site →**](https://77-tech.vercel.app) &nbsp;·&nbsp; código privado
+
+<br>
+
+### Agenda por WhatsApp com IA
+
+<a href="https://github.com/kauaxp77/Automacao_n8n"><img src="assets/projetos/agenda.jpg" width="100%" alt="Agenda por WhatsApp: a mensagem encaminhada vira evento no Google Agenda"></a>
+
+Automação para uma assessoria de licitações. O pedido de serviço encaminhado ao WhatsApp do
+robô vira evento no Google Agenda, com resposta na mesma conversa, alarmes no celular e
+lembretes por e-mail para a equipe.
+
+- **A IA lê, o código confere:** o modelo extrai os dados num JSON de esquema estrito, e regras fixas e testadas conferem a data. Dia da semana que não bate, data no passado ou "amanhã" numa mensagem encaminhada fazem o evento nascer em vermelho, para alguém conferir.
+- **Falha que avisa:** áudio, pedido sem data, IA fora do ar ou mensagem que a Meta não entregou viram aviso na hora, com o texto original.
+- **47 testes** da lógica, fora do n8n, e infraestrutura de **R$ 0 por mês** nos planos gratuitos.
+
+`n8n` `JavaScript` `Groq` `WhatsApp Cloud API` `Google Agenda` `Supabase` `Docker`
+
+[**Código (cliente) →**](https://github.com/kauaxp77/naty-agenda) &nbsp;·&nbsp; [**Versão para replicar →**](https://github.com/kauaxp77/Automacao_n8n) &nbsp;·&nbsp; [Carrossel em PDF](https://github.com/kauaxp77/Automacao_n8n/blob/main/docs/divulgacao/linkedin/carrossel-agenda-whatsapp.pdf)
+
+---
+
+## Outros projetos
+
+| Projeto | O que é | Stack |
+|:---|:---|:---|
+| **[Extrator auditável](https://github.com/kauaxp77/AutomatizacaoDeDados)** | Extração de dados de sistemas legados com validação por backtest. No caso real: 97,6% de acurácia contra 84 registros preenchidos à mão | `Python` `Playwright` |
+| **[Simulados SEDES-DF](https://github.com/kauaxp77/simulados-sedes-df)** · [no ar](https://simulados-sedes-df.vercel.app) | Simulados para concurso, com papéis e validação nas regras do Firestore e auditoria por triggers | `Firebase` `Cloud Functions` `JavaScript` |
+| **[Carlos Rosa](https://github.com/kauaxp77/Carlos-Rosa)** | Site de fotógrafo com CMS próprio, agendamento e auditoria | `Java 21` `Spring Boot` `MySQL` |
+| **[MedClin](https://github.com/kauaxp77/Medclin)** | Gestão de clínica com três perfis de acesso, relatórios em PDF e painel com gráficos | `PHP` `MySQL` `Chart.js` |
+| **[HireNow](https://github.com/kauaxp77/Hirenow-Job)** | Portal de vagas com área da empresa, candidaturas e conversa com o candidato | `PHP` `MySQL` |
+| **[Agendamento de Salas](https://github.com/kauaxp77/Agendamento-de-Salas)** | Reserva de salas do SENAI | `PHP` `MySQL` `Bootstrap` |
+| **[Calculadora de orçamentos](https://github.com/kauaxp77/calculadora-orcamentos)** · [no ar](https://calculadora-or-amentos-bay.vercel.app) | Monta o orçamento de um projeto, gera o PDF com assinatura e envia pelo WhatsApp | `JavaScript` `Firebase` |
+| **[ASSED Goiás](https://github.com/kauaxp77/ASSEDGOIAS)** · [no ar](https://assedgoias.vercel.app) | Protótipo de front-end: site institucional, área do associado e painel | `React` `TypeScript` `Vite` |
+| **[Requinte Coffee](https://github.com/kauaxp77/Requinte_coffee)** · [no ar](https://requinte-coffee.vercel.app) | Página de venda de um buffet de café | `Next.js` `TypeScript` `Tailwind` |
+| **[Sistema de Patrimônio](https://github.com/kauaxp77/Sistema_Patrimonio)** | Telas de gestão de unidades, setores e relatórios patrimoniais | `HTML` `SCSS` `JavaScript` |
+
+---
+
+## Formação
+
+| Curso | Instituição | |
+|:---|:---|:---|
+| **Análise e Desenvolvimento de Sistemas** | Centro Universitário Projeção | 4º semestre · conclusão em jul/2027 · CRA 7,88 |
+| **Técnico em Informática** | Escola Técnica de Ceilândia | concluído em 2024 |
+
+**Certificações:** Oracle APEX Foundations (Oracle) · MongoDB Overview (MongoDB) · Power BI (Hashtag Treinamentos)
